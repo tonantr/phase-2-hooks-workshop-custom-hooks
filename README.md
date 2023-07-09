@@ -54,7 +54,7 @@ var _ExternalLink = require("@styled-icons/heroicons-outline/ExternalLink");
 ## Instructions
 
 The `src` directory has two folders: one for the `solution` code, and one for
-the exercises. You'll be working in the `exercise` folder.
+the exercises. You'll be working in the `exercise` folder...
 
 - `src/exercise/01.js`: Exercise (write your code here)
 - `src/exercise/01.md`: Deliverables and helpful notes
